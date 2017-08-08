@@ -1,0 +1,8 @@
+{ 
+    "_id" : ObjectId("598827aa0abc563d187ed4ef"), 
+    "username" : "illidan", 
+    "password" : "$2a$10$eCE4u3d7vTGFtugXa0mQouib4Yws1YDKwBNtudI.9TonnN4fEHho2", 
+    "user_role" : "0", 
+    "modifyDate" : "2017-8-7", 
+    "__v" : NumberInt(0)
+}
