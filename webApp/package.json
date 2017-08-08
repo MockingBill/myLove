@@ -6,15 +6,19 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "bcrypt": "^1.0.2",
     "body-parser": "~1.17.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
     "express": "~4.15.2",
+    "express-session": "^1.15.5",
     "fs": "0.0.1-security",
     "hbs": "~4.0.1",
+    "mongoose": "^4.10.8",
     "morgan": "~1.8.1",
     "multer": "^0.1.8",
     "serve-favicon": "~2.4.2",
+    "session-file-store": "^1.1.1",
     "stylus": "0.54.5"
   }
 }
